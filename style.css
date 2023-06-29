@@ -88,8 +88,9 @@
     cursor: pointer;
 }
 
-.name{
+.name a{
     color: gold;
+    text-decoration: none;
 }
 button span{
     width: 0%;
